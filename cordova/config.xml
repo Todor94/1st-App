@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="firstapp.my_first_app" version="0.0.1">
+  <name>My First App</name>
+  <description>
+    My First Tabris.js App
+  </description>
+  <author email="todor.delev94@gmail.com">
+    Todor Delev
+  </author>
+</widget>
